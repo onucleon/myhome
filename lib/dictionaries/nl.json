@@ -1,0 +1,51 @@
+{
+  "brand": "FARMERZ",
+  "tagline": "Importeur & Distributeur \u2014 La Opala Servies",
+  "nav": {
+    "home": "Start",
+    "catalog": "Catalogus",
+    "about": "Over ons",
+    "contact": "Contact",
+    "cart": "Winkelwagen"
+  },
+  "hero": {
+    "title": "La Opala servies voor moderne huizen",
+    "subtitle": "Premium opal-servies en glaswerk, samengesteld door FARMERZ \u2014 importeur & distributeur. Licht, duurzaam en tijdloos wit.",
+    "shop": "Bekijk de collectie",
+    "learn": "Meer informatie"
+  },
+  "grid": {
+    "title": "Uitgelichte producten",
+    "subtitle": "Opal-servies & glaswerk, direct leverbaar."
+  },
+  "product": {
+    "gallery": "Galerij",
+    "add": "In winkelwagen"
+  },
+  "cart": {
+    "title": "Je winkelwagen",
+    "close": "Sluiten",
+    "empty": "Je winkelwagen is leeg.",
+    "subtotal": "Subtotaal",
+    "checkout": "Afrekenen (Prototype)",
+    "clear": "Winkelwagen legen",
+    "remove": "Verwijderen"
+  },
+  "about": {
+    "title": "Over FARMERZ",
+    "body": "FARMERZ is een importeur & distributeur, gespecialiseerd in La Opala opal-servies en kwaliteitsglaswerk. Wij focussen op tijdloos wit, premium materialen en een minimalistische presentatie."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Voor groothandel of retailvragen, neem contact op:",
+    "note": "Vervang dit door je echte contactgegevens."
+  },
+  "footer": {
+    "line": "La Opala opal-servies & glaswerk \u2014 premium, clean design."
+  },
+  "lang": {
+    "label": "Taal",
+    "english": "Engels",
+    "dutch": "Nederlands"
+  }
+}

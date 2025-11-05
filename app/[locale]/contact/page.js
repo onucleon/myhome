@@ -1,0 +1,3 @@
+"use client"
+import { useLocale } from "@/components/i18n/LocaleProvider"
+export default function Contact(){ const { t } = useLocale(); return (<div className="mx-auto max-w-3xl px-4 py-20"><h1 className="text-3xl font-semibold tracking-tight">{t("contact.title")}</h1><p className="mt-4 text-black/70">{t("contact.intro")}</p><ul className="mt-2 text-black/80"><li>Email: hello@farmerz.example</li><li>Phone: +00 000 0000</li></ul><p className="mt-6 text-sm text-black/50">{t("contact.note")}</p></div>) }

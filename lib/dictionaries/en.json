@@ -1,0 +1,51 @@
+{
+  "brand": "FARMERZ",
+  "tagline": "Importer & Distributor \u2014 La Opala Tableware",
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "hero": {
+    "title": "La Opala Tableware for Modern Homes",
+    "subtitle": "Premium opalware and glassware curated by FARMERZ \u2014 importer & distributor. Lightweight, durable, and timelessly white.",
+    "shop": "Shop the collection",
+    "learn": "Learn more"
+  },
+  "grid": {
+    "title": "Featured Products",
+    "subtitle": "Opalware & glassware, ready to ship."
+  },
+  "product": {
+    "gallery": "Gallery",
+    "add": "Add to cart"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "close": "Close",
+    "empty": "Your cart is empty.",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout (Prototype)",
+    "clear": "Clear cart",
+    "remove": "Remove"
+  },
+  "about": {
+    "title": "About FARMERZ",
+    "body": "FARMERZ is an importer & distributor specializing in La Opala opalware and quality glassware. We focus on timeless white, premium materials, and a clean, minimalist presentation."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "For wholesale or retail enquiries, reach us at:",
+    "note": "Replace these with your real contact details."
+  },
+  "footer": {
+    "line": "La Opala opalware & glassware \u2014 premium, clean design."
+  },
+  "lang": {
+    "label": "Language",
+    "english": "English",
+    "dutch": "Dutch"
+  }
+}
